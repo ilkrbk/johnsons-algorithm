@@ -1,0 +1,6 @@
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/johnsons-algorithm/johnsons-algorithm/obj/Debug/johnsons-algorithm.csprojAssemblyReference.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/johnsons-algorithm/johnsons-algorithm/obj/Debug/johnsons-algorithm.csproj.CoreCompileInputs.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/johnsons-algorithm/johnsons-algorithm/bin/Debug/johnsons_algorithm.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/johnsons-algorithm/johnsons-algorithm/bin/Debug/johnsons_algorithm.pdb
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/johnsons-algorithm/johnsons-algorithm/obj/Debug/johnsons_algorithm.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/johnsons-algorithm/johnsons-algorithm/obj/Debug/johnsons_algorithm.pdb
